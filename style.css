@@ -4,7 +4,8 @@
     padding: 0;
 }
 
-body{background-color: rgba(44, 44, 190, 0.719);
+body{
+background-image: linear-gradient(to right,rgb(51, 47, 47), rgb(22, 21, 21), black);
 align-items: center;
 text-align: center;
 margin: auto;
@@ -14,7 +15,7 @@ padding: auto;
 
 .container{
     color: black;
-    background-color: rgb(217, 227, 236);
+    background-image: linear-gradient(to right, rgb(217, 227, 236), rgb(190, 202, 212), rgb(152, 167, 182) );
     width: 300px;
     margin: auto;
     padding: 20px;
