@@ -9,7 +9,7 @@ html{
 
 }
 body{
-background-image: linear-gradient(to right,rgb(51, 47, 47), rgb(22, 21, 21), black);
+background-image: linear-gradient(to right,rgb(63, 62, 62), rgb(126, 124, 124), rgb(7, 1, 1), rgb(22, 21, 21), black);
 align-items: center;
 text-align: center;
 margin: auto;
@@ -19,7 +19,7 @@ padding: auto;
 
 .container{
     color: black;
-    background-image: linear-gradient(to right, rgb(217, 227, 236), rgb(190, 202, 212), rgb(152, 167, 182) );
+    background-image: linear-gradient(to right, rgb(210, 212, 214), rgb(190, 202, 212), rgb(152, 167, 182) );
     width: 300px;
     margin: auto;
     padding: 20px;
